@@ -6,8 +6,5 @@
     "request-promise": "^4.2.4",
     "statful-client": "^6.1.1",
     "use-strict": "^1.0.1"
-  },
-  "scripts": {
-    "test": "jest"
   }
 }
