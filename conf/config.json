@@ -1,0 +1,18 @@
+{
+  "statful": {
+    "dryRun": true,
+    "app": "example-weather-collector",
+    "transport": "api",
+    "flushInterval": 5000,
+    "api": {
+      "token": "<your token here!>"
+    }
+  },
+  "openweather": {
+    "appId": "<your app id here!>",
+    "apiUrl": "http://api.openweathermap.org/data/2.5",
+    "units": "metric",
+    "checkPeriodSeconds": 5000,
+    "locationCodes": [2735943, 2643743, 5128581, 2644668, 5391811, 3169070]
+  }
+}
