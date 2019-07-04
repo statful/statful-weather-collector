@@ -1,6 +1,7 @@
 # Statful Weather Collector
 
 Collects data from [Open Weather Map](https://openweathermap.org/) and sends it to Statful.
+This is the same data we collect for our [demo](https://demo.statful.com/). 
 
 # How to use
 
